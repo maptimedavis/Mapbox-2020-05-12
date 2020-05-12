@@ -32,10 +32,6 @@
 - UC Davis/Coursera: [Introduction to GIS fundamentals](https://www.coursera.org/learn/gis)
 - Udemy: [QGIS instruction](https://www.udemy.com/topic/qgis/)
 [](https://github.com/jakobzhao/geog371)
-**Esri** free resources (may need to sign up for an account, but these are free):
-
-- https://www.esri.com/training/catalog/57660c89bb54adb30c94541c/get-started-with-arcmap/
-- https://www.esri.com/training/catalog/5b733dab8659c25ea7013f8e/arcmap-fundamentals/
 
 **QGIS** training materials:
 
